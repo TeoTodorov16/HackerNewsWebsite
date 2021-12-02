@@ -6,10 +6,10 @@ FrontEnd Task - (byME Teodor Todorov)
 
 
 
-This project displays 10 randomized Hacker News top stories using the Hacker News API (https://github.com/HackerNews/API).
+This project displays 10 randomized Hacker News top stories using the Hacker News API.
 
 
-The UI must include:
+The UI must includes:
 * Story title
 * Story URL
 * Story timestamp
@@ -17,11 +17,6 @@ The UI must include:
 * Author id
 * Author karma score
 * A dummy image (not from API – just a static asset)
-
-The following endpoints is being used:
-* Top stories: https://hacker-news.firebaseio.com/v0/topstories.json  
-* Story item: https://hacker-news.firebaseio.com/v0/item/${id}.json
-* User: https://hacker-news.firebaseio.com/v0/user/${id}.json 
 
 
 The following endpoints is being used:
